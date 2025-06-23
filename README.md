@@ -27,5 +27,5 @@ Worked on real business data to identify workflow bottlenecks and recommend impr
 Applied EDA, business analysis, and presented actionable insights.
 
 ## 🔗 Connect with me
-[LinkedIn](www.linkedin.com/in/yogaswetha-iitm) 
+[LinkedIn](https://www.linkedin.com/in/yogaswetha-iitm) 
 📧 yogaswetha26@gmail.com
